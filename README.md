@@ -1,5 +1,5 @@
 # Hey there! I'm Sadman Mazumder, also known as Dienyemite online.
-## B.S. Information Technology & CS Minor at NJIT, specialized in Full-Stack Web Dev and Game Dev.
+## B.S. Information Technology Web Dev specialization at NJIT, focused in Full-Stack and Game Dev.
 
 ### Portfolio Website: https://www.sadmanmazumder.com
 ### LinkedIn: www.linkedin.com/in/sadman-mazumder-098356214
